@@ -1,0 +1,1 @@
+<h1> user nsme is {{$name}}</h1>

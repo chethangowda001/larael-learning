@@ -1,0 +1,1 @@
+<h1>hello this is laravel view using controller </h1>
