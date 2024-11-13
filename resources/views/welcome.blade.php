@@ -9,6 +9,7 @@
  <h1>{{$i}}</h1>
 @endfor
 
+<a href="{{route('la')}}">lara page</a>
 
 <style>
     .success {
